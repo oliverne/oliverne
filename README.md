@@ -1,3 +1,3 @@
 # Hi, I'm Oliver 👋
 
-An Expert Beginner who is willing to be an excellent Front-end Engineer, someday!
+I'm a happy entry-level front-end engineer destined to be replaced by AI soon.
